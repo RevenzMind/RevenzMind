@@ -1,16 +1,17 @@
-### Hi there 👋
+```bash
+>> neofetch
+```
 
-<!--
-**RevenzMind/RevenzMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://avatars.githubusercontent.com/u/155520951?v=4" width="189"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+  Name : Revenz
+  Activity: Private repositories
+  Skillset : Typescript, Javascript, C#, CSS
+  Discord  : 1149804799877972059
+  Hobbies  : [
+   Application Development,   Utility Development,
+   Command-Line Applications, Websites
+  ]
+```
+  
