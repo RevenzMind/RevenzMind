@@ -11,7 +11,7 @@
   Discord  : 1149804799877972059
   Hobbies  : [
    Application Development,   Utility Development,
-   Command-Line Applications, Websites
+   Command-Line Applications, Websites, Gaming
   ]
 ```
   
