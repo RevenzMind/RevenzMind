@@ -1,8 +1,8 @@
 # RawenMind ✨
 
-**Hi, Welcome to my github profile**
+**Hi, Welcome to my GitHub profile!** 😺
 <br/>
-> **Hello everyone! I'm Revenz, a 16 year old self-taught programmer from Mexico**
+> **Hello everyone! I'm Revenz, a 16-year-old self-taught programmer from Mexico** 🐱
 
 ```bash
 >> neofetch
@@ -13,7 +13,7 @@
 ```python
   Name : Revenz
   Activity: Private repositories
-  Skillset : Typescript, Javascript, C#, CSS
+  Skillset : TypeScript, JavaScript, C#, CSS
   Discord  : 1286544389073534976
   Hobbies  : [
    Application Development,   Utility Development,
@@ -22,7 +22,7 @@
 ```
 ![](https://komarev.com/ghpvc/?username=RevenzMind)
 <br>
-<strong>Skills</strong>
+<strong>Skills</strong> 🐾
 <div display="flex">
   <img width="48" height="48" src="https://revenzmind.vercel.app/Assets/Skills/Frontend/js.png" alt="javascript"/>
   <img width="48" height="48" src="https://revenzmind.vercel.app/Assets/Skills/Frontend/ts.png" alt="typescript--v1"/>
