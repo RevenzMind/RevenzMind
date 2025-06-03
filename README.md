@@ -3,9 +3,8 @@
 <h1 align="center">RawenMind ✨</h1>
 
 <p align="center">
-  <img src="https://japi.rest/discord/v1/user/1286544389073534976/avatar?size=4096" width="140" style="border-radius: 50%;" alt="Avatar"/>
+  <img src="https://japi.rest/discord/v1/user/1286544389073534976/avatar" width="140" style="border-radius: 50%;" alt="Avatar"/>
 </p>
-
 <p align="center">
   <strong>Hi there! I'm <span style="color:#ff9aa2;">Revenz</span> 👋</strong><br/>
   🐱 17 y/o self-taught programmer from <strong>Mexico</strong> <br/>
